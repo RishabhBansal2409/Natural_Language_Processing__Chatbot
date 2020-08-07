@@ -1,4 +1,4 @@
-# Machine Learning (ML) Powerered Chatbot
+# Artificial Intelligence (AI) Powerered Chatbot
 
 We all might have experienced talking to a virtual assistant/Chatbot. It is widely used in various industries such as **Banking , Telecom , Transportation** etc. **Chatbot is used** in various senses but it's core function is **to address the customer grievances thereby catering to the various needs of the customer** in a timely manner.
 
